@@ -1,5 +1,5 @@
 <center>
-  <img width="855px" align="left" src="https://i.imgur.com/6ZafgX0.png"/>
+  <img width="855px" align="left" src="https://github.com/dirlep/dirlep/blob/main/covergithub.png"/>
 <table>
     <tr>
         <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirlep&hide=html&layout=compact&theme=buefy" /></td>
