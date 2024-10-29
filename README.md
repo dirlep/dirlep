@@ -7,8 +7,6 @@
     </tr>   
 </table>
   <h2>Olá, seja bem vindx! :wave:</h2>
-  <p>Meu nome é Dirlene, tenho 26 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar.<br>
-  Atualmente trabalho com desenvolvimento Fullstack, usando principalmente Java e Angular.</p>
   
   <h3>Onde me encontrar:</h3>
   <a href="https://www.linkedin.com/in/dirlenepreilipper"><img src="https://github.com/dirlep/dirlep/blob/main/linkedin.png" width="16"></img></a>
